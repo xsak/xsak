@@ -1,6 +1,6 @@
 ### Hey there, XSAk here 👋
 
-I'm a classic infra guy and would like to know cloud better.
+I'm a classic (old school) infra guy and getting to know cloud better.
 
 <!--
 **xsak/xsak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
